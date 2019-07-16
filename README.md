@@ -1,3 +1,4 @@
+[![Build Status](https://marwinsoft.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/kanasz.mslearn-tailspin-spacegame-web?branchName=master)](https://marwinsoft.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
